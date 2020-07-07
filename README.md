@@ -21,7 +21,7 @@ Several metrices will also be used as the model assessment, however, the Area Un
 
 ### Conclusion on Part 1
 
-
+![part1-auc](https://user-images.githubusercontent.com/58388776/86804537-346c4580-c0a1-11ea-85d3-6f0868969e5c.png)
 
 Without performing any preprocessing and parameter tuning, we see that from the 'money' fields, **Gradient Boosted Tree Classifier** performs best compared to other classifier (Random Forest, Gaussian Naive Bayes, and SVC). This is based on their ROC score, detailed as follows:
 
