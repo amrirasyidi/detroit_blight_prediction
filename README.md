@@ -1,4 +1,4 @@
-# Detroit Blight Violation Prediction [WIP]
+# Detroit Blight Violation Prediction [MVP]
 The final assignment on Coursera Applied Machine Learning Course by University of Michigan. The objective is to predict whether or not blight violator comply to its fine given the data. **This project core goal is for the author to learn more about applied machine learning techniques and to familiarize with the field**
 
 ## PART 1 - Introduction to The Project and Model Selection
